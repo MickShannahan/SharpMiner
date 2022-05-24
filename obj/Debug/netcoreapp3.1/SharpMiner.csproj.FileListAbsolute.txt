@@ -1,0 +1,13 @@
+C:\source\codeworks\tastuff\firesides\sharpMiner\SharpMiner\bin\Debug\netcoreapp3.1\SharpMiner.exe
+C:\source\codeworks\tastuff\firesides\sharpMiner\SharpMiner\bin\Debug\netcoreapp3.1\SharpMiner.deps.json
+C:\source\codeworks\tastuff\firesides\sharpMiner\SharpMiner\bin\Debug\netcoreapp3.1\SharpMiner.runtimeconfig.json
+C:\source\codeworks\tastuff\firesides\sharpMiner\SharpMiner\bin\Debug\netcoreapp3.1\SharpMiner.runtimeconfig.dev.json
+C:\source\codeworks\tastuff\firesides\sharpMiner\SharpMiner\bin\Debug\netcoreapp3.1\SharpMiner.dll
+C:\source\codeworks\tastuff\firesides\sharpMiner\SharpMiner\bin\Debug\netcoreapp3.1\SharpMiner.pdb
+C:\source\codeworks\tastuff\firesides\sharpMiner\SharpMiner\obj\Debug\netcoreapp3.1\SharpMiner.csprojAssemblyReference.cache
+C:\source\codeworks\tastuff\firesides\sharpMiner\SharpMiner\obj\Debug\netcoreapp3.1\SharpMiner.AssemblyInfoInputs.cache
+C:\source\codeworks\tastuff\firesides\sharpMiner\SharpMiner\obj\Debug\netcoreapp3.1\SharpMiner.AssemblyInfo.cs
+C:\source\codeworks\tastuff\firesides\sharpMiner\SharpMiner\obj\Debug\netcoreapp3.1\SharpMiner.csproj.CoreCompileInputs.cache
+C:\source\codeworks\tastuff\firesides\sharpMiner\SharpMiner\obj\Debug\netcoreapp3.1\SharpMiner.dll
+C:\source\codeworks\tastuff\firesides\sharpMiner\SharpMiner\obj\Debug\netcoreapp3.1\SharpMiner.pdb
+C:\source\codeworks\tastuff\firesides\sharpMiner\SharpMiner\obj\Debug\netcoreapp3.1\SharpMiner.genruntimeconfig.cache
